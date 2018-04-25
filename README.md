@@ -8,4 +8,4 @@ The theme is RPGs, or Role-Playing Games, so think Dungeons and Dragons.
 
 Morrowii is the sole person maintaining and contributing to this project.
 
-If you need help with anything related to this project, drop me a line on Github.
+If you need help with anything related to this project, drop me a line on GitHub.
